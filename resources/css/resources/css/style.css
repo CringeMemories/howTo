@@ -1,0 +1,26 @@
+*{
+    background-color: black;
+}
+
+*{
+    color: white;
+}
+
+h1{
+    font-weight: 900;
+    color:red
+}
+
+h2{
+    color:#ffd700
+}
+
+a{
+    color:#00008b
+}
+
+p{
+    color:rgb(118, 27, 175)
+}
+
+
